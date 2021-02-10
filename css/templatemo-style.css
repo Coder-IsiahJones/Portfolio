@@ -175,6 +175,8 @@ hr {
   overflow: hidden;
   margin: 0;
   position: relative;
+  max-height: 250px;
+  padding: 0.2rem;
 }
 .portfolio-overlay {
   display: -webkit-box;
@@ -268,7 +270,7 @@ hr {
   min-height: 50px;
   float: left;
   overflow: hidden;
-  margin-bottom: 20px;
+  margin-bottom: 20px;  
 }
 .iso-box > a {
   display: block;

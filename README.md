@@ -1,4 +1,2 @@
-```
 ## Screenshots
-![Screenshot 1](portfolio 1.png)
-```
+![Screenshot 1](portfolio%201.png)
